@@ -1,4 +1,4 @@
-let vehicle = ["car","BMW","Totayo","VW"];
+let vehicle = ["Car","BMW","Totayo","VW"];
 
 const display = document.getElementById("display");
 
